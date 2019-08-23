@@ -38,8 +38,8 @@
 #include <netlink/utils.h>
 #include <netlink/route/pktloc.h>
 
-#include "pktloc_syntax.h"
-#include "pktloc_grammar.h"
+#include "lib/route/pktloc_syntax.h"
+#include "lib/route/pktloc_grammar.h"
 
 /** @cond SKIP */
 #define PKTLOC_NAME_HT_SIZ 256

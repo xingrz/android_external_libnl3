@@ -24,8 +24,8 @@
 #include <netlink/route/cls/ematch/cmp.h>
 #include <linux/tc_ematch/tc_em_cmp.h>
 
-#include "ematch_syntax.h"
-#include "ematch_grammar.h"
+#include "lib/route/cls/ematch_syntax.h"
+#include "lib/route/cls/ematch_grammar.h"
 
 /**
  * @name Module API
